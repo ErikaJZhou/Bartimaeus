@@ -7,7 +7,7 @@ BMS player accessible to the blind and visually impaired
 ## Concept:
 A BMS player/client application accessible for blind and visually impaired people.
 
-Many video games have the "video" or visuals as a key component. This may leave relatively lesser options to blind gamers, or they might have a less complete experience than sighted gamers.
+Many video games have the "video" or visuals as a key component. This may leave relatively fewer options to blind gamers, or they might have a less complete experience than sighted gamers.
 
 Music rhythm games have audio/sound/music as an important component. If a music rhythm game was playable without needing visuals, it might be something that blind or visually impaired gamers could enjoy and have a rich experience with (Miller, Parecki, & Douglas, 2007).
 Theoretically, sighted and non-sighted gamers could compete on a level playing field with this type of game.
