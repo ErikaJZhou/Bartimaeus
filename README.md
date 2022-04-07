@@ -1,5 +1,5 @@
 # Bartimaeus
-BMS player accessible to the blind and visually impaired
+BMS client software accessible to blind and visually impaired gamers
 
 
 **Note:** I had an idea for a BMS player (client software) accessible to the blind and visually impaired but haven't implemented it yet...
