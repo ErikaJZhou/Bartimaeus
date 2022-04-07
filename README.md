@@ -15,7 +15,7 @@ Theoretically, sighted and non-sighted gamers could compete on a level playing f
 ## Why use BMS? 
 BMS (Be-Music Source) is free and has an active, dedicated community of artists who produce music and charts for/with it.
 
-While some accessible game projects might have a proof of concept or small project developed and then left, the BMS community has produced new music tracks year after year for many years.
+While some accessible game projects might have a proof of concept or small project developed and then left inactive, the BMS community has produced new music tracks year after year for many years.
 
 BMS is playable on PC/with a computer and keyboard and does not require specialized hardware.
 
