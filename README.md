@@ -37,5 +37,6 @@ BMS is playable on PC/with a computer and keyboard and does not require speciali
 - Linking to sites to download BMS files directly?
 
 ## Reference(s):
+- "Be-Music Source" on Wikipedia https://en.wikipedia.org/wiki/Be-Music_Source
 - Miller, Daniel & Parecki, Aaron & Douglas, Sarah. (2007). Finger dance: a sound game for blind people. 253-254. 10.1145/1296843.1296898. 
 https://www.researchgate.net/publication/221652292_Finger_dance_a_sound_game_for_blind_people 
