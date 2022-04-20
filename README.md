@@ -33,6 +33,8 @@ BMS is playable on PC/with a computer and keyboard and does not require speciali
   - Or Progressive Web App
   - Or Cross-platform desktop app
 - Playable with normal computers and keyboards
+- Cloud architecture for hosting app in cloud, handling file uploads
+- Linking to sites to download BMS files directly?
 
 ## Reference(s):
 - Miller, Daniel & Parecki, Aaron & Douglas, Sarah. (2007). Finger dance: a sound game for blind people. 253-254. 10.1145/1296843.1296898. 
