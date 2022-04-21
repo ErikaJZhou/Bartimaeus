@@ -37,6 +37,8 @@ BMS is playable on PC/with a computer and keyboard and does not require speciali
 - Linking to sites to download BMS files directly?
 
 ## Reference(s):
+- bemusic/bemuse
+https://github.com/bemusic/bemuse
 - "Be-Music Source" on Wikipedia 
 https://en.wikipedia.org/wiki/Be-Music_Source
 - BMS SEARCH
